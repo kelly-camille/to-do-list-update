@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tedjo\\.nuget\\packages\\": {}
+    "C:\\Users\\kelly\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tedjo\\onedrive\\desktop\\epicodus\\ToDoList.Solution\\todolist\\ToDoList.csproj",
+      "projectUniqueName": "C:\\Users\\kelly\\OneDrive\\Desktop\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
       "projectName": "ToDoList",
-      "projectPath": "C:\\Users\\tedjo\\onedrive\\desktop\\epicodus\\ToDoList.Solution\\todolist\\ToDoList.csproj",
-      "packagesPath": "C:\\Users\\tedjo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tedjo\\onedrive\\desktop\\epicodus\\ToDoList.Solution\\todolist\\obj\\",
+      "projectPath": "C:\\Users\\kelly\\OneDrive\\Desktop\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
+      "packagesPath": "C:\\Users\\kelly\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kelly\\OneDrive\\Desktop\\ToDoList.Solution\\ToDoList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tedjo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\kelly\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -54,6 +54,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
